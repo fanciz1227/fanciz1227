@@ -7,17 +7,15 @@
 <div>
   <h4>-BackEnd</h4>
   <img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Spring%20Cloud-%236DB33F" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Spring%20Batch-%236DB33F" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;</br>
-  
+  <img src="https://img.shields.io/badge/-Spring%20Cloud-%236DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Spring%20Batch-%236DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;  
+  <img src="https://img.shields.io/badge/-Apache%20Maven-%23C71A36?style=flat-square&logo=Apache Maven&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Gradle-%2302303A?style=flat-square&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;</br>  
   <img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=PHP&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Jsp-orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Jpa-red" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  
+  <img src="https://img.shields.io/badge/-Jpa-red" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;</br>
   <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=flat-square&logo=Apache Kafka&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Apache%20Maven-%23C71A36?style=flat-square&logo=Apache Maven&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Gradle-%2302303A?style=flat-square&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-JUnit5-%2325A162?style=flat-square&logo=JUnit5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Couchbase-%23EA2328?style=flat-square&logo=Couchbase&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   
