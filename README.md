@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <div>
 
-  
+</br></br>
 <h3>Github Stats</h3>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fanciz1227&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fanciz1227&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
