@@ -1,4 +1,3 @@
-<h1 align="center"> Jegeun Yu</h1>
 
 <h3>Introduction</h3>
 안녕하세요! 7년차 백엔드 개발자입니다.</br></br></br>
@@ -47,3 +46,7 @@
   <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <div>
+
+  
+<h3>Github Stats</h3>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fanciz1227&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
