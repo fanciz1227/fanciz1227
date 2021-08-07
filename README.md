@@ -1,6 +1,13 @@
+<h1 align="left">Jegeun Yu</h1>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffanciz1227&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fanciz1227@gmail.com)
 
 <h3>Introduction</h3>
-안녕하세요! 7년차 백엔드 개발자입니다.</br></br></br>
+- Hello! I am a backend developer with 7 years of experience.</br>
+- I am developing a web application using Java.</br>
+- I'm working on 1day 1commit.</br></br>
+
 
 <h3>🛠Skills</h3>
 <div>
@@ -9,13 +16,13 @@
   <img src="https://img.shields.io/badge/-Spring%20Cloud-%236DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Spring%20Batch-%236DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;  
   <img src="https://img.shields.io/badge/-Apache%20Maven-%23C71A36?style=flat-square&logo=Apache Maven&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Gradle-%2302303A?style=flat-square&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;</br>  
+  <img src="https://img.shields.io/badge/-Gradle-%2302303A?style=flat-square&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+  </br>
   <img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=PHP&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Jsp-orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Jpa-red" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;</br>
+  <img src="https://img.shields.io/badge/-Jpa-red" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=flat-square&logo=Apache Kafka&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JUnit5-%2325A162?style=flat-square&logo=JUnit5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Couchbase-%23EA2328?style=flat-square&logo=Couchbase&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   
   <h4>-FrontEnd</h4>
@@ -44,10 +51,11 @@
   
   <h4>-Posonal Learning Skills</h4>
   <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;   <img src="https://img.shields.io/badge/-JUnit5-%2325A162?style=flat-square&logo=JUnit5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp; 
+
 <div>
 
-</br></br>
+</br>
 <h3>Github Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fanciz1227&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fanciz1227&show_icons=true&theme=radical)
