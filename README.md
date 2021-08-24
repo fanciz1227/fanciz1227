@@ -48,10 +48,6 @@
   <h4>-Dev Tools</h4>
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Source%20Tree-%230078D4" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  
-  <h4>-Posonal Learning Skills</h4>
-  <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;   <img src="https://img.shields.io/badge/-JUnit5-%2325A162?style=flat-square&logo=JUnit5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp; 
 
 <div>
 
