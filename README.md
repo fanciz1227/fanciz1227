@@ -6,8 +6,6 @@
 <h3>Introduction</h3>
 - Hello! I am a backend developer with 7 years of experience.</br>
 - I am developing a web application using Java.</br>
-- I'm working on 1 day 1 commit.</br></br>
-
 
 <h3>🛠Skills</h3>
 <div>
