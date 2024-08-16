@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fanciz1227@gmail.com)
 
 <h3>Introduction</h3>
-- Hello! I am a backend developer with 7 years of experience.</br>
+- Hello! I am a backend developer with 9 years of experience.</br>
 - I am developing a web application using Java.</br>
 
 <h3>🛠Skills</h3>
